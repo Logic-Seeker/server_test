@@ -33,3 +33,4 @@ gem 'nifty-generators'
 # end
 
 gem 'resque', :require => "resque/server"
+gem "yajl-ruby"

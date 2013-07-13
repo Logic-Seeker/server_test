@@ -83,6 +83,7 @@ GEM
     tzinfo (0.3.28)
     vegas (0.1.8)
       rack (>= 1.0.0)
+    yajl-ruby (1.1.0)
 
 PLATFORMS
   ruby
@@ -93,3 +94,4 @@ DEPENDENCIES
   rails (= 3.0.9)
   resque
   sqlite3
+  yajl-ruby
